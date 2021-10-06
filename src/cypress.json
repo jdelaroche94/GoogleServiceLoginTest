@@ -1,0 +1,11 @@
+{
+    "viewportWidht": 980,
+    "viewportHeight": 1200,
+    "baseUrl": "https://accounts.google.com",
+    "requestTimeout": 10000,
+    "pageLoadTimeout": 100000,
+    "video": false,
+    "retries": {
+        "runMode": 1
+    }
+}
