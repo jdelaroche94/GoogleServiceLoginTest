@@ -4,7 +4,6 @@
     "baseUrl": "https://accounts.google.com",
     "requestTimeout": 10000,
     "pageLoadTimeout": 100000,
-    "video": false,
     "integrationFolder": "cypress/integration/BDD/features",
     "pluginsFile": "cypress/plugins/cucumber-plugins.js",
     "retries": {
