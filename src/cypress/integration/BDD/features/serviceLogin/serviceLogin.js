@@ -54,6 +54,7 @@ When("the user clicks on the Create an account link", function () {
 
 //Scenario 4
 Then("they visualise a screen to create an account", function () {
+    cy.wait(2000);
     cy.url().should('contain','/webcreateaccount');
 });
 
